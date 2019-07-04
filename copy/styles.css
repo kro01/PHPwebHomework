@@ -1,0 +1,20 @@
+.top{
+	margin:10px;
+	float: left;
+}
+.a{
+	display: block;
+}
+.submit{
+	margin: 10px;
+	margin-right: 20px;
+	float: right;
+}
+.code{
+	font-size: 16px;
+	background: black;
+	color: white;
+}
+.numbers{
+	float: left;
+}
